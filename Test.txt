@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DC63-807B
+
+ Directory of C:\Users\Santu\Desktop\JAVA
+
+09/20/2017  12:12 PM    <DIR>          .
+09/20/2017  12:12 PM    <DIR>          ..
+09/20/2017  12:08 PM               426 HelloWorld.class
+09/13/2017  03:33 PM               142 HelloWorld.java
+09/20/2017  12:00 PM               470 Helloworld.txt
+09/20/2017  12:00 PM               521 index.html
+09/20/2017  12:12 PM                 0 Test.txt
+               5 File(s)          1,559 bytes
+               2 Dir(s)  295,114,235,904 bytes free
